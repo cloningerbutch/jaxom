@@ -34,6 +34,7 @@
     "object-validator-js": "^0.1.1",
     "ora": "^4.0.2",
     "rc": "^1.2.8",
+    "request": "^2.88.0",
     "request-promise-native": "^1.0.8",
     "validator": "^12.0.0",
     "yargs": "^14.2.0"
