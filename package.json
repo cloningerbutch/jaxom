@@ -1,0 +1,32 @@
+{
+  "name": "jaxom",
+  "version": "1.0.21",
+  "description": "url endpoint monitor",
+  "main": "lib/index.js",
+  "bin": {
+    "jax": "./bin/run"
+  },
+  "scripts": {
+    "start": "node ./lib/index.js",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "debug-level": "^0.3.0",
+    "inquirer": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-ipc": "^9.1.1",
+    "node-schedule": "^1.3.2",
+    "object-validator-js": "^0.1.1",
+    "ora": "^4.0.2",
+    "rc": "^1.2.8",
+    "request-promise-native": "^1.0.8",
+    "validator": "^12.0.0",
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}

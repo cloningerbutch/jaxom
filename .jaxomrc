@@ -1,0 +1,17 @@
+{
+    "monitor": {
+        "ipcID": "jaxmon",
+        "debugLevel": "DEBUG"
+    },
+    "defaults": {
+        "endpoint": {
+            "env": "env",
+            "domain": "domain",
+            "name": "name",
+            "active": true,
+            "uri": "https://foo.com",
+            "method": "GET",
+            "headers": []
+        }
+    }
+}
