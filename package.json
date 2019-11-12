@@ -4,14 +4,26 @@
   "description": "url endpoint monitor",
   "main": "lib/index.js",
   "bin": {
-    "jax": "./bin/run"
+    "jaxom": "./bin/run"
   },
   "scripts": {
     "start": "node ./lib/index.js",
     "test": "mocha"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Butch Cloninger",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloningerbutch/jaxom.git"
+  },
+  "keywords": [
+    "url",
+    "endpoint",
+    "monitor"
+  ],
   "dependencies": {
     "chalk": "^3.0.0",
     "debug-level": "^0.3.0",
