@@ -11,7 +11,9 @@
             "active": true,
             "uri": "https://foo.com",
             "method": "GET",
-            "headers": []
+            "headers": {},
+            "successOverride": [],
+            "failOverride": []
         }
     }
 }
