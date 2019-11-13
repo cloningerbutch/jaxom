@@ -1,6 +1,7 @@
 {
     "monitor": {
         "ipcID": "jaxmon",
+        "cron": "* * * * *",
         "debugLevel": "DEBUG"
     },
     "defaults": {
