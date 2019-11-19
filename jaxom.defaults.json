@@ -2,7 +2,8 @@
     "monitor": {
         "ipcID": "jaxmon",
         "cron": "* * * * *",
-        "debugLevel": "DEBUG"
+        "debugLevel": "DEBUG",
+        "maxlogs": 100
     },
     "defaults": {
         "endpoint": {
