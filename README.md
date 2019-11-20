@@ -8,6 +8,7 @@ just an extra origin monitor
 ![github last commit](https://img.shields.io/github/last-commit/cloningerbutch/jaxom)
 ![npm license](https://img.shields.io/npm/l/jaxom)
 ![npm downloads](https://img.shields.io/npm/dw/jaxom)
+![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/cloningerbutch_jaxom?server=https%3A%2F%2Fsonarcloud.io)
 
 Fast, targeted url-based endpoint monitoring and alerting
 
