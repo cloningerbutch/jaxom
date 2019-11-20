@@ -2,7 +2,14 @@
 
 just an extra origin monitor 
 
-![npm](https://img.shields.io/npm/v/jaxom) ![rdy](https://img.shields.io/badge/Ready%20to%20Use-NO!-red)
+![guthub release date](https://img.shields.io/github/release-date/cloningerbutch/jaxom)
+
+![npm](https://img.shields.io/npm/v/jaxom)
+![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&label=build&logo=none)
+![github repo size](https://img.shields.io/github/repo-size/cloningerbutch/jaxom)
+![github last commit](https://img.shields.io/github/last-commit/cloningerbutch/jaxom)
+![npm license](https://img.shields.io/npm/l/jaxom)
+![npm downloads](https://img.shields.io/npm/dw/jaxom)
 
 Fast, targeted url-based endpoint monitoring and alerting
 
