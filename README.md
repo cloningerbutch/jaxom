@@ -2,9 +2,11 @@
 
 just an extra origin monitor 
 
-![npm](https://img.shields.io/npm/v/jaxom)
+![npm](https://img.shields.io/npm/v/jaxom) ![rdy](https://img.shields.io/badge/Ready%20to%20Use-NO!-red)
 
 Fast, targeted url-based endpoint monitoring and alerting
+
+> **Not Ready for Prime Time** - please note, this package is not ready for usage.  Development is ongoing and is expected to reach readiness in early Jan 2020.
 
 ## Installation 
 
