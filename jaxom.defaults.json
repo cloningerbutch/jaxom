@@ -1,4 +1,8 @@
 {
+    "format": {
+        "date": "YYYY-MM-DD",
+        "timestamp": "YYYY-MM-DD HH:mm:SS"
+    },
     "monitor": {
         "ipcID": "jaxmon",
         "cron": "* * * * *",
@@ -15,7 +19,8 @@
             "method": "GET",
             "headers": {},
             "successOverride": [],
-            "failOverride": []
+            "failOverride": [],
+            "channels": []
         }
     }
 }
