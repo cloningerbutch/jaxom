@@ -1,6 +1,6 @@
 {
   "name": "jaxom",
-  "version": "1.0.34",
+  "version": "1.0.35",
   "description": "url endpoint monitor",
   "main": "lib/index.js",
   "bin": {
